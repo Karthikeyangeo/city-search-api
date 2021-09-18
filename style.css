@@ -1,0 +1,26 @@
+/* search api  */
+.container{
+    display: grid;
+    justify-content: center;
+}
+#input1{
+    margin-left:15%;
+}
+
+.card{
+    padding:5px;
+    justify-content: space-between;
+}
+
+#city{
+    color:blue;
+    
+}
+
+#state{
+    color:purple;
+}
+
+.error{
+    border:none;
+}
